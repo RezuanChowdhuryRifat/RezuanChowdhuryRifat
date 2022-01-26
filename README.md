@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RezuanChowdhuryRifat
-- 👀 I’m interested in machine learning, web development, android development.
+- 👀 I’m interested in machine learning, web development and android development.
 - 🌱 I’m currently learning machine learning.
 - 💞️ I’m looking to collaborate on open source.
 - 📫 Email me at rezuan.rifat@northsouth.edu
